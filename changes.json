@@ -1,0 +1,41 @@
+{
+  "addPlaylist": [
+    {
+      "id" : "4",
+      "owner_id" : "4",
+      "song_ids" : [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "id" : "5",
+      "owner_id" : "4",
+      "song_ids" : [
+        "36",
+        "37"
+      ]
+    },
+    {
+      "id" : "6",
+      "owner_id" : "4",
+      "song_ids" : [
+      ]
+    }
+  ],
+  "removePlaylist": [
+    {
+      "id" : "3"
+    }
+  ],
+  "addSongtoPlaylist": [
+    {
+      "id" : "5",
+      "owner_id" : "4",
+      "song_ids" : [
+        "38",
+        "39"
+      ]
+    }
+  ]
+}
